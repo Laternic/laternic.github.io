@@ -1,0 +1,14 @@
+body {
+	/* CSS COMMENT */
+	/* #RRGGBB */
+	/* 0-9 A-F */
+	background-color: #FF00FF;
+}
+
+
+.panel-body {
+	text-align: center;
+}
+.panel-title {
+	font-weight: 600;
+}
